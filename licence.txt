@@ -1,0 +1,4 @@
+CC0 (public domain): http://creativecommons.org/publicdomain/zero/1.0/
+
+To the extent possible under law, Smylers has waived all copyright and related
+or neighbouring rights to vim_tt2_embedded. 
